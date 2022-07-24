@@ -24,7 +24,7 @@ import React from 'react';
 import logo from './logo.svg'
 import './App.css';
 
-import { Authenticator, withAuthenticator } from '@aws-amplify/ui-react';
+import { Authenticator } from '@aws-amplify/ui-react';
 import '@aws-amplify/ui-react/styles.css';
 function App() {
   return (
